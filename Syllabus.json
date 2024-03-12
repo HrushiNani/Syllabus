@@ -1,65 +1,64 @@
 {
-    "subjects": [
-      {
-        "sno": 1,
-        "subjectCode": "MR22-1CS0103",
-        "subjectName": "MERN Stack Web Development",
-        "L": 3,
-        "T": 0,
-        "P": 2,
-        "C": 4
-      },
-      {
-        "sno": 2,
-        "subjectCode": "MR22-1CS0104",
-        "subjectName": "Advanced Data Structures",
-        "L": 3,
-        "T": 0,
-        "P": 2,
-        "C": 4
-      },
-      {
-        "sno": 3,
-        "subjectCode": "MR22-1BS0108",
-        "subjectName": "Probability & Statistics",
-        "L": 3,
-        "T": 0,
-        "P": 0,
-        "C": 3
-      },
-      {
-        "sno": 5,
-        "subjectCode": "MR22-1HS0134",
-        "subjectName": "English for Technical Communication and Employability Skills",
-        "L": 0,
-        "T": 0,
-        "P": 2,
-        "C": 1
-      },
-      {
-        "sno": 6,
-        "subjectCode": "MR22-1CS0172",
-        "subjectName": "Application Development – Web Explore",
-        "L": 0,
-        "T": 0,
-        "P": 4,
-        "C": 2
-      },
-      {
-        "sno": 7,
-        "subjectCode": "MR22-1BS0141",
-        "subjectName": "Environmental Science",
-        "L": 1,
-        "T": 0,
-        "P": 0,
-        "C": 0
-      }
-    ],
-    "total": {
-      "L": 19,
+  "subjects": [
+    {
+      "sno": 1,
+      "subjectCode": "CS101",
+      "subjectName": "Introduction to Computer Science",
+      "L": 3,
       "T": 0,
-      "P": 10,
-      "C": 23
+      "P": 2,
+      "C": 4
+    },
+    {
+      "sno": 2,
+      "subjectCode": "CS102",
+      "subjectName": "Advanced Data Structures",
+      "L": 3,
+      "T": 0,
+      "P": 2,
+      "C": 4
+    },
+    {
+      "sno": 3,
+      "subjectCode": "CS103",
+      "subjectName": "Probability & Statistics",
+      "L": 3,
+      "T": 0,
+      "P": 0,
+      "C": 3
+    },
+    {
+      "sno": 4,
+      "subjectCode": "CS104",
+      "subjectName": "English for Technical Communication and Employability Skills",
+      "L": 0,
+      "T": 0,
+      "P": 2,
+      "C": 1
+    },
+    {
+      "sno": 5,
+      "subjectCode": "CS105",
+      "subjectName": "Application Development – Web Explore",
+      "L": 0,
+      "T": 0,
+      "P": 4,
+      "C": 2
+    },
+    {
+      "sno": 6,
+      "subjectCode": "CS106",
+      "subjectName": "Environmental Science",
+      "L": 1,
+      "T": 0,
+      "P": 0,
+      "C": 0
     }
+  ],
+  "total": {
+    "L": 19,
+    "T": 0,
+    "P": 10,
+    "C": 23
   }
-  
+}
